@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
-	"restart":false,
+	"name": "Four-Way Fracture",
+	"description": "Triple Trouble Remix",
+	"restart":true,
 	"color": [170, 0, 255]
 }
